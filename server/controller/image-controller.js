@@ -7,7 +7,7 @@ export const uploadImage = async (req, res) => {
   };
   try {
     const file = await File.create(fileObj);
-    const API_URI = "http://localhost:8000";
+    const API_URI = "https://sharelink-file-sharing.onrender.com";
     res.status(200).json({ path: `${API_URI}/file/${file._id}` });
   } catch (error) {
     console.error(error.message);
