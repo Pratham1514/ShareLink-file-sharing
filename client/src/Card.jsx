@@ -33,7 +33,7 @@ const Card = () => {
         Upload and Share the Download link
       </p>
       <button
-        className="md:w-[150px] w-[80px] md:h-[40px] h-[30px] md:text-[25px] text-[13px] rounded-lg bg-white btn hover:bg-white/80"
+        className="md:w-[150px] w-[80px] md:h-[40px] h-[30px] md:text-[25px] text-[13px] rounded-lg bg-white btn hover:bg-white/80 md:mt-4"
         onClick={uploadClick}
       >
         Upload
@@ -45,7 +45,7 @@ const Card = () => {
         onChange={(e) => setFile(e.target.files[0])}
       />
       <a
-        className="flex items-center md:gap-5 gap-2 bg-transparent md:text-[15px] text-[10px] md:mt-10 mt-5 link"
+        className="flex items-center md:gap-5 bg-transparent md:text-[18px] text-[10px] md:mt-6 mt-5 text-black hover:text-gray-500 text-left pl-2 pr-2 text-wrap link"
         href={result}
       >
         {result}

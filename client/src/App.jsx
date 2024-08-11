@@ -10,7 +10,7 @@ function App() {
           ShareLink
         </div>
 
-        <div className="flex flex-col gap-5 items-center mt-10 md:w-[500px] w-[280px] md:h-[300px] h-[200px] bg-teal-500/30 rounded-[30px] text-teal-950">
+        <div className="flex flex-col gap-5 items-center mt-10 md:w-[700px] w-[280px] md:h-[300px] h-[200px] bg-teal-500/30 rounded-[30px] text-teal-950">
           <Card />
         </div>
       </div>
