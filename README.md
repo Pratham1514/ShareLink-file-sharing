@@ -1,7 +1,5 @@
 # **ShareLink** <img src="https://github.com/Pratham1514/ShareLink-file-sharing/blob/main/client/public/icons8-file-share-96.png" width="35" />
 
-## **Overview**
-
 This is a simple file-sharing application that allows users to upload files and receive a unique download link. The link can be shared with others to download the file. This app is designed to be easy to use and provides a secure way to share files online.
 
 ## **Features**
