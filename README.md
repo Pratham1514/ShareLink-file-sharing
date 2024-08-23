@@ -2,7 +2,7 @@
 
 This is a simple file-sharing application that allows users to upload files and receive a unique download link. The link can be shared with others to download the file. This app is designed to be easy to use and provides a secure way to share files online.
 
-## **Features**
+## **🌟 Features**
 
 - **File Upload**: Users can upload any file type to the server.
 - **Download Link**: After uploading, the user receives a unique link to download the file.
@@ -10,7 +10,7 @@ This is a simple file-sharing application that allows users to upload files and 
 - **Expiration**: Optionally, links don't expire.
 - **Responsive Design**: The app is responsive and works well on both desktop and mobile devices.
 
-## **Technologies Used**
+## **🛠️ Technologies Used**
 
 - **React.js**: Front-end JavaScript library for building user interfaces.
 - **Node.js**: The server-side JavaScript runtime handles file uploads and manages server logic.
@@ -19,7 +19,7 @@ This is a simple file-sharing application that allows users to upload files and 
 - **Multer**: Middleware for handling `multipart/form-data`, used for file uploads.
 - **Tailwind CSS**: Utility-first CSS framework used for styling the application and ensuring a responsive design.
 
-## **Installation**
+## **🚀 Installation**
 
 1. **Clone the repository**:
     ```bash
