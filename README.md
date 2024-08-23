@@ -1,4 +1,4 @@
-# <img src="https://github.com/Pratham1514/ShareLink-file-sharing/blob/main/client/public/icons8-file-share-96.png" width="35" /> **ShareLink**
+# **ShareLink** <img src="https://github.com/Pratham1514/ShareLink-file-sharing/blob/main/client/public/icons8-file-share-96.png" width="35" />
 
 ## **Overview**
 
